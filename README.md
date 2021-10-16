@@ -25,3 +25,8 @@ https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco.csv
 
 ### Dataset
 https://dqlab.id/data/covid19_worldwide_2020.json
+
+### Result
+![Image of COVID-19](https://github.com/Arteewee/DQLAB-Python-Project/blob/main/1.jpg)
+
+##
