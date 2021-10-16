@@ -16,7 +16,7 @@ https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco.csv
 
 ## Data Science : Data Analysis COVID-19 in the World
 
-### Reqirements
+### Requirments
 * Python 3
 * Pandas
 * Numpy
@@ -29,4 +29,15 @@ https://dqlab.id/data/covid19_worldwide_2020.json
 ### Result
 ![Image of COVID-19](https://github.com/Arteewee/DQLAB-Python-Project/blob/main/1.jpg)
 
-##
+## Data_Analyst_Project_Business_Decision_Research
+
+### Requirments
+* Python 3
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborns
+* sklearn
+
+### Dataset
+https://storage.googleapis.com/dqlab-dataset/data_retail.csv
