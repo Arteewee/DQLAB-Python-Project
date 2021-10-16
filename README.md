@@ -11,5 +11,17 @@ this project is about cleaning data
 * Matplotlib
 * Seaborns
 
-## test
+### Dataset
+https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/dqlab_telco.csv
 
+## Data Science : Data Analysis COVID-19 in the World
+
+### Reqirements
+* Python 3
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborns
+
+### Dataset
+https://dqlab.id/data/covid19_worldwide_2020.json
